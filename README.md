@@ -1,6 +1,6 @@
 ## 食用方法
 ```
-SWebCracker.exe		显示使用说明
+SWebCracker.exe	显示使用说明
 SWebCracker.exe -h 使用帮助
 
 SWebCracker.exe  -u -n -p -s [-h][-e][-head][-nf|-un][-pf|-pw][-se][-rs][-rt][-ru][-t][-ot][-o]
@@ -60,4 +60,5 @@ SWebCracker.exe -u https://shigophilo.github.io/login.html -n email -p pass -s l
 
 ## 不足
 需要1010端口没被占用(很抱歉,端口写死了)
+
 当前目录下要有chromedriver.exe(很抱歉,也写死了)
